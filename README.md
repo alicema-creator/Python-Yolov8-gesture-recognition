@@ -6,15 +6,17 @@ Python+Yolov8手势特征识别检测
 如需安装运行环境或远程调试，见文章底部名片(QQ:2945218359)，由专业技术人员远程协助！
 
 ## 前言
-这篇源码针对<<Python+Yolov5苹果水果检测识别>>编写代码，代码整洁，规则，易读。 学习与应用推荐首选。
+这篇源码针对<<Python+Yolov8手势特征识别检测>>编写代码，代码整洁，规则，易读。 学习与应用推荐首选。
 
 ## 运行环境
 编程语言：Python3
 依赖库：Torch, Yolov8
 
 ## 运行效果
-<img src="https://github.com/alicema-creator/Python-Yolov8-Statistics-of-the-number-of-people-at-the-entrance-and-exit/blob/main/screenshot/1.png" width="500"></a>
-
+<img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot/1.jpeg" width="500"></a>
+<img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot/2.jpeg" width="500"></a>
+<img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot/3.jpeg" width="500"></a>
+<img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot5.jpg" width="500"></a>
 
 ## 在线协助
 如需安装运行环境或远程调试，可扫码加QQ:2945218359，由专业技术人员远程协助！  
