@@ -16,7 +16,7 @@ Python+Yolov8手势特征识别检测
 <img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot/1.jpeg" width="500"></a>
 <img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot/2.jpeg" width="500"></a>
 <img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot/3.jpeg" width="500"></a>
-<img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot5.jpg" width="500"></a>
+<img src="https://github.com/alicema-creator/Python-Yolov8-gesture-recognition/blob/main/screenshot/5.jpg" width="500"></a>
 
 ## 在线协助
 如需安装运行环境或远程调试，可扫码加QQ:2945218359，由专业技术人员远程协助！  
