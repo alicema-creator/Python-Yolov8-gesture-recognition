@@ -5,8 +5,10 @@ Python Yolov8 gesture recognition手势特征识别
 Python+Yolov8手势特征识别检测
 如需安装运行环境或远程调试，见文章底部名片(QQ:2945218359)，由专业技术人员远程协助！
 
-## 前言
-**这篇源码针对<<Python+Yolov8手势特征识别检测>>编写代码，代码整洁，规则，易读。 学习与应用推荐首选。**
+<blockquote style="background-color: #EBEBEB;padding: 10px;border-left: 4px solid #1CBCD9;"><font color=#000000 size=4>**程序示例精选**
+**图片相片查看编辑工具**
+**如需安装运行环境或远程调试，可点击</font><font color=#1CBCD9 size=4>[博主头像](https://developer.aliyun.com/profile/expert/rfnzgp3sk3ahc)</font><font color=#000000 size=4>进入个人主页查看博主联系方式，由专业技术人员远程协助！**</font>
+</blockquote>
 
 ## 运行环境
 编程语言：Python3
